@@ -1,0 +1,13 @@
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.exe
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.deps.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.runtimeconfig.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.runtimeconfig.dev.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.dll
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\bin\Debug\netcoreapp3.1\whatIsYourAge.pdb
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.csprojAssemblyReference.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.AssemblyInfoInputs.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.AssemblyInfo.cs
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.csproj.CoreCompileInputs.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.dll
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.pdb
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\whatIsYourAge\obj\Debug\netcoreapp3.1\whatIsYourAge.genruntimeconfig.cache
