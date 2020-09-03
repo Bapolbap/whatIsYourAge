@@ -6,59 +6,49 @@ namespace whatIsYourAge
     {
         static void Main(string[] args)
         {
-            //"Hello World" uppgiften gjorde jag som en WPF, så jag skapar ett nytt repo för den här
+            var information = new string[5];
 
-            var age = "";
-            String name;
-            String alive = "";
-            String goodbyeExcitement = "";
-
-            Console.WriteLine("what is your age? please write an integer"); //fråga för ålder
-            age = Console.ReadLine(); //både ålder och namn fär vara vad som helts
-            Console.WriteLine("what is your name?"); //fråga för namn
-            name = Console.ReadLine();
-
-            while(alive != "Yes" && alive != "No") //användaren måste antingen svara "Yes" eller "No"
+            for (int i = 0; i < information.Length; i++)
             {
-                Console.WriteLine("are you alive? (Yes/No)");
-                alive = Console.ReadLine();
+                Console.WriteLine("what is person " + (i + 1) + "'s name?");
+                information[i] = Console.ReadLine();
+
+                while(true)//fråga hur gammla personen är tills användaren har skrivit en int
+                {
+                    string agesString;
+                    Console.WriteLine("how old are they?");
+                    agesString = Console.ReadLine();
+                    if (int.TryParse(agesString, out int ageInt))
+                    {
+                        information[i] += (", age " + ageInt);// lägg till age i information
+                        break;
+                    }
+                }
+
+                while (true)//fråga om de lever tills användaren har skrivit "yes" eller "no"
+                {
+                    Console.WriteLine("are they alive? (yes/no)");
+                    string alive;
+                    alive = Console.ReadLine();
+                    if(alive == "yes" || alive == "no")
+                    {
+                        switch (alive)//lägg till om de levde eller inte i information
+                        {
+                            case "yes"  : information[i] += ", alive"; break;
+                            case "no"   : information[i] += ", dead"; break;
+                            default     : information[i] += ", don't know"; break;//ifall nått weird händer
+                        }
+                        break;
+                    }
+                }
             }
 
-            Console.WriteLine(); //för spaceing
+            Console.WriteLine();
 
-            if(int.TryParse(age, out int ageInt)) //kolla om användaren skrev en int
+            for (int i = (information.Length - 1); i > -1; i--)//skriv ut alla namn i omvänd ordning
             {
-                Console.WriteLine("you are " + ageInt + " years old");
-            } else
-            {
-                Console.WriteLine("you can't be \"" + age + "\" years old, you fool");
+                Console.WriteLine(information[i]);
             }
-
-            if (name == "esteban julio ricardo montoya de la rosa ramirez") //olika specialfall för namn
-            {
-                Console.WriteLine("wow, your name is " + name + "? that's pretty cool");
-            } else if(name == "\\(*-*)/")
-            {
-                Console.WriteLine(name + name + name + name + name + name + name + name);
-            } else
-            {
-                Console.WriteLine("your name is " + name); //normalfall för namn
-            }
-
-            for(int i = 0; i < name.Length; i++) //längden på ens namn kontrollerar hur många "e" som finns i slutet av "bye"
-            {
-                goodbyeExcitement += "e";
-            }
-
-
-            switch (alive)
-            {
-                case ("Yes"): Console.WriteLine("you're alive"); break;
-                case ("No") : Console.WriteLine("you're dead"); break;
-                case null   : Console.WriteLine("what? how?"); break;
-            }
-
-            Console.WriteLine("Thank you for your time, by" + goodbyeExcitement);
         }
     }
 }
