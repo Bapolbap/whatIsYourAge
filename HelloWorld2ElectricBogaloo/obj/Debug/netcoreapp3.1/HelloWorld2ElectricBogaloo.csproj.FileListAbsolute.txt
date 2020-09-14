@@ -1,0 +1,13 @@
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.csprojAssemblyReference.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.AssemblyInfoInputs.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.AssemblyInfo.cs
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.csproj.CoreCompileInputs.cache
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.exe
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.deps.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.runtimeconfig.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.runtimeconfig.dev.json
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.dll
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\bin\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.pdb
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.dll
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.pdb
+C:\Users\pablo.jofre\Documents\GitHub\whatIsYourAge\HelloWorld2ElectricBogaloo\obj\Debug\netcoreapp3.1\HelloWorld2ElectricBogaloo.genruntimeconfig.cache
